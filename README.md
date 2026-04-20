@@ -76,7 +76,3 @@ python wireframe_animations.py
 - Add comments or markdown cells as you customize the examples.
 - Consider adding a `requirements.txt` file if you want to share an exact environment.
 
-## License
-
-This repository is shared for educational purposes. Add a `LICENSE` file to define reuse terms if needed.
-# Data-Science-Basics1
