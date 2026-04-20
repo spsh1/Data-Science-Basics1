@@ -6,15 +6,18 @@ This repository presents a professional collection of introductory data science 
 
 ## Repository Contents
 
-- `NumPy_Basics.ipynb` — foundational numerical computing with NumPy arrays and vectorized operations
-- `Pandas.ipynb` — data manipulation, aggregation, and analysis using Pandas DataFrames
-- `1. Matplotlib_Line_plots.ipynb` — line chart creation, styling, and presentation techniques
-- `Barplot and Horizontal Bar Plot.ipynb` — bar chart design, comparison, and layout choices
-- `Scatter Plot.ipynb` — scatter plot customization and data relationship exploration
-- `Histogram and Boxplot.ipynb` — distribution analysis with histograms and boxplots
-- `Violin plot, pie chart and Donut Chart.ipynb` — categorical visualization techniques for different chart types
-- `Other_plots.ipynb` — additional Matplotlib examples and advanced plotting patterns
-- `animations.py`, `circle_animations.py`, `wireframe_animations.py` — animated visual demonstrations for dynamic plotting
+## View Notebooks
+
+| Notebook | View |
+|----------|------|
+| NumPy Basics | [Open in nbviewer](https://nbviewer.org/github/spsh1/Data-Science-Basics1/blob/main/NumPy_Basics.ipynb) |
+| Pandas | [Open in nbviewer](https://nbviewer.org/github/spsh1/Data-Science-Basics1/blob/main/Pandas.ipynb) |
+| Matplotlib Line Plots | [Open in nbviewer](https://nbviewer.org/github/spsh1/Data-Science-Basics1/blob/main/1.%20Matplotlib_Line_plots.ipynb) |
+| Barplot and Horizontal Bar Plot | [Open in nbviewer](https://nbviewer.org/github/spsh1/Data-Science-Basics1/blob/main/2.%20Barplot%20and%20Horizontal%20Bar%20Plot.ipynb) |
+| Scatter Plot | [Open in nbviewer](https://nbviewer.org/github/spsh1/Data-Science-Basics1/blob/main/3.%20Scatter%20Plot.ipynb) |
+| Histogram and Boxplot | [Open in nbviewer](https://nbviewer.org/github/spsh1/Data-Science-Basics1/blob/main/4.%20Histogram%20and%20Boxplot.ipynb) |
+| Violin Plot, Pie Chart and Donut Chart | [Open in nbviewer](https://nbviewer.org/github/spsh1/Data-Science-Basics1/blob/main/5.%20Violin%20plot%2C%20pie%20chart%20and%20Donut%20Chart.ipynb) |
+| Other Plots | [Open in nbviewer](https://nbviewer.org/github/spsh1/Data-Science-Basics1/blob/main/6.%20Other_plots.ipynb) |
 
 ## Key Skills Demonstrated
 
