@@ -77,5 +77,5 @@ python wireframe_animations.py
 
 - The notebooks are designed for learning and portfolio showcase.
 - Add comments or markdown cells as you customize the examples.
-- Consider adding a `requirements.txt` file if you want to share an exact environment.
+
 
